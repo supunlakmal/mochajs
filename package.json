@@ -1,0 +1,25 @@
+{
+  "name": "mochajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supunlakmal/mochajs.git"
+  },
+  "keywords": [
+    "mochajs"
+  ],
+  "author": "Supun Lakmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supunlakmal/mochajs/issues"
+  },
+  "homepage": "https://github.com/supunlakmal/mochajs#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
